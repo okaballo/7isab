@@ -1,0 +1,31 @@
+/* Ported exactly from 7isab-design-reference.html (light neumorphism) */
+:root {
+  --green-900: #314C3B;
+  --green-700: #4C6B55;
+  --green-500: #6D8C73;
+  --green-300: #92AA97;
+  --green-200: #BDC9B8;
+  --sand-300:  #D9D4C6;
+  --sand-200:  #E2DED2;
+  --sand-100:  #ECE8DF;
+  --cream:     #F7F3EA;
+
+  --red-600:   #B35F52;
+  --red-500:   #C47E72;
+  --red-300:   #DDB3A8;
+  --red-100:   #EBD3CC;
+  --red-text:  #6E3129;
+  --red-text-2:#9A4A3F;
+  --red-track: #DDBDB4;
+
+  --shadow-raised: 6px 6px 14px #C9C3B4, -6px -6px 14px #FBF9F4;
+  --shadow-inset:  inset 2px 2px 5px #BFB9AA, inset -2px -2px 5px #F2EFE7;
+
+  --r-hero: 24px;
+  --r-card: 16px;
+  --r-chip: 14px;
+  --r-icon: 12px;
+  --r-pill: 999px;
+
+  --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", sans-serif;
+}
