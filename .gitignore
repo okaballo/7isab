@@ -1,0 +1,6 @@
+node_modules
+dist
+dev-dist
+*.tsbuildinfo
+claude-code-prompt.md
+7isab-design-reference.html
